@@ -31,10 +31,15 @@
 
 ### Залежності Python:
 \`\`\`
+
 mysql-connector-python==8.2.0
+
 python-dateutil==2.8.2
+
 pytz==2023.3
+
 tkinter (входить в стандартну поставку Python)
+
 \`\`\`
 
 ## Встановлення та налаштування
