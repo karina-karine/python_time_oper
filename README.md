@@ -53,3 +53,6 @@ cd datetime-calculator
 ### 2. Запуск
 запуск main.py
 для тестування - запуск tests.py
+
+![image](https://github.com/user-attachments/assets/febde267-2065-4581-9452-1b02eb93a523)
+
